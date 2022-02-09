@@ -1,0 +1,15 @@
+html {
+    color: white;
+}
+
+[class*="col-"] {
+    height: 50px;
+    background-color: blue;
+    border: 2px solid white;
+}
+
+.green {
+    height: 35px;
+    background-color: greenyellow;
+    border: 1px solid blue;
+}
