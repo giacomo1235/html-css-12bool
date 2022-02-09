@@ -2,6 +2,11 @@ html {
     color: white;
 }
 
+p {
+    color: black;
+    font-weight: bold;
+}
+
 [class*="col-"] {
     height: 50px;
     background-color: blue;
@@ -10,6 +15,10 @@ html {
 
 .green {
     height: 35px;
-    background-color: greenyellow;
+    background-color: rgb(1, 187, 1);
     border: 1px solid blue;
+}
+
+.container {
+    margin-top: 20px;
 }
